@@ -1,0 +1,7 @@
+com\mycompany\albumdriver\Artist$ArtistType.class
+com\mycompany\albumdriver\Album.class
+com\mycompany\albumdriver\AlbumDriver.class
+com\mycompany\albumdriver\Artist.class
+com\mycompany\albumdriver\Publisher.class
+com\mycompany\albumdriver\Song.class
+com\mycompany\albumdriver\Song$Genre.class
